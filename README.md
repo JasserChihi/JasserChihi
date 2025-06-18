@@ -1,20 +1,59 @@
-## 👋 Hi, I'm Jasser Chihi
+<h1 align="center">👋 Hello there! I'm Jasser Chihi</h1>
 
-🎓 I'm a Mathematics and Computer Science student at the University of Tunis, passionate about **Data Science** and **Analytics**.
+<p align="center">
+🎓 Mathematics & Computer Science Student | 📊 Aspiring Data Scientist | 💻 Tech Enthusiast  
+</p>
 
-🔍 I enjoy working on data-driven projects and currently developing my skills in:
-- Python, R, SQL, Java
-- Data Analysis, EDA, and Visualization
-- Algorithm optimization and systems design
+---
 
-🚀 I’m looking for internship or junior opportunities in Data Science and Software Development where I can apply analytical thinking and technical skills.
+### 🚀 About Me
 
-📌 Recent Projects:
-- 🧮 **Algorithm Performance Comparison**: Gauss vs LU decomposition (Python)
-- 📊 **Walmart Sales Analytics** (R)
-- 🧑‍🎓 **Student Management System** (JavaFX + PostgreSQL)
-- 💡 **Online Medical Appointment System** (UML & analysis)
+I'm a **passionate data-driven thinker** currently studying at the University of Tunis.  
+I love exploring how **math meets code** to solve real-world problems through **data analysis, algorithms**, and **creative logic**.
 
-📫 Contact me:
-- Email: [jasserchihi1@gmail.com](mailto:jasserchihi1@gmail.com)
-- LinkedIn: [linkedin.com/in/jasser-chihi](https://www.linkedin.com/in/jasser-chihi-9b9668281/)
+🧠 I thrive on building, analyzing, optimizing, and visualizing data-powered systems — from academic experiments to full design documents.
+
+---
+
+### 🔧 Tech & Tools I Use
+
+- 📌 Languages: `Python`, `R`, `SQL`, `Java`
+- 📊 Skills: Data Analysis, EDA, Visualization, Algorithm Design, Systems Modeling
+- 🛠️ Tools: Jupyter, RStudio, JavaFX, PostgreSQL, PlantUML, Draw.io
+
+---
+
+### 📂 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🧮 **Algorithm Performance Comparison** | Python, NumPy, Matplotlib | Benchmarked LU vs Gauss decomposition on large matrices with performance charts |
+| 📊 **Walmart Sales Analytics** | R, ggplot2 | Explored and visualized trends in sales data to derive actionable insights |
+| 🧑‍🎓 **Student Management System** | JavaFX, PostgreSQL | GUI + DB integration for managing student data (CRUD operations) |
+| 🏥 **Medical Appointment System** | UML, Canva, PlantUML | Designed specs, UML diagrams, and planning docs for an online appointment platform |
+
+---
+
+### 🌱 What I'm Working On
+
+- Expanding my knowledge in **machine learning**, **data pipelines**, and **cloud deployment**.
+- Exploring open-source collaboration and contributing to meaningful tech projects.
+
+---
+
+### 📫 Let's Connect!
+
+- 💌 [jasserchihi1@gmail.com](mailto:jasserchihi1@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasser-chihi-9b9668281/)  
+- 📁 Check out my repositories to see what I'm building!
+
+---
+
+<details>
+<summary>⚡ Fun Facts</summary>
+
+- I love **design tools** like Canva .
+- Big fan of football ⚽, strategy games 🎮, and AI challenges 🤖.
+- I speak Arabic (native), French, and English 🌍.
+
+</details>
