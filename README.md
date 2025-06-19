@@ -4,6 +4,12 @@
 🎓 Mathematics & Computer Science Student | 📊 Aspiring Data Scientist | 💻 Tech Enthusiast  
 </p>
 
+<p align="center">
+  <a href="mailto:jasser.chihi@etudiant-fst.utm.tn">📧 Email</a> · 
+  <a href="https://www.linkedin.com/in/jasser-chihi/">💼 LinkedIn</a> · 
+  <a href="https://github.com/JasserChihi">🌐 GitHub</a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -17,16 +23,16 @@ I love exploring how **math meets code** to solve real-world problems through **
 
 ### 🔧 Tech & Tools I Use
 
-- 📌 Languages: `Python`, `R`, `SQL`, `Java`
-- 📊 Skills: Data Analysis, EDA, Visualization, Algorithm Design, Systems Modeling
-- 🛠️ Tools: Jupyter, RStudio, JavaFX, PostgreSQL, PlantUML, Draw.io
+- **Languages:** `Python`, `R`, `SQL`, `Java`  
+- **Skills:** Data Analysis · EDA · Visualization · Algorithm Design · Systems Modeling  
+- **Tools:** Jupyter · RStudio · JavaFX · PostgreSQL · PlantUML · Draw.io
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
+| 🚧 Project | 🔧 Tech Stack | 📌 Description |
+|-----------|---------------|----------------|
 | 🧮 **Algorithm Performance Comparison** | Python, NumPy, Matplotlib | Benchmarked LU vs Gauss decomposition on large matrices with performance charts |
 | 📊 **Walmart Sales Analytics** | R, ggplot2 | Explored and visualized trends in sales data to derive actionable insights |
 | 🧑‍🎓 **Student Management System** | JavaFX, PostgreSQL | GUI + DB integration for managing student data (CRUD operations) |
@@ -36,24 +42,25 @@ I love exploring how **math meets code** to solve real-world problems through **
 
 ### 🌱 What I'm Working On
 
-- Expanding my knowledge in **machine learning**, **data pipelines**, and **cloud deployment**.
-- Exploring open-source collaboration and contributing to meaningful tech projects.
+- Deepening my knowledge in **machine learning**, **data pipelines**, and **cloud deployment**  
+- Exploring **open-source collaboration** and contributing to meaningful tech projects  
+- Building a strong foundation in **pandas**, **sklearn**, and **cloud tools** (AWS, GCP)
 
 ---
 
-### 📫 Let's Connect!
-
-- 💌 [jasserchihi1@gmail.com](mailto:jasserchihi1@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jasser-chihi-9b9668281/)  
-- 📁 Check out my repositories to see what I'm building!
-
----
+### ⚡ Fun Facts
 
 <details>
-<summary>⚡ Fun Facts</summary>
+<summary>Click to expand</summary>
 
-- I love **design tools** like Canva .
-- Big fan of football ⚽, strategy games 🎮, and AI challenges 🤖.
-- I speak Arabic (native), French, and English 🌍.
+- 🎨 I enjoy working with design tools like **Canva** and **Figma**  
+- ⚽ Football fan, 🎮 strategy gamer, and 🤖 AI/logic challenge lover  
+- 🌍 I speak Arabic (native), French, and English
 
 </details>
+
+---
+
+<p align="center">
+🧭 "Code is a story. Data is the plot. I just help write the ending."  
+</p>
