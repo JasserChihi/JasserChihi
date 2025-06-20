@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Mathematical+Modeling+%7C+Mathematics+%26+CS+Student" alt="Typing SVG Line 2" />
 </h3>
 
-<h1 align="center">👋 Hello there! I'm Jasser Chihi</h1>
+<h1 align="center">👋 Hi, I'm Jasser Chihi</h1>
 
 <p align="center">
-🎓 Mathematics & Computer Science Student | 📊 Aspiring Data Scientist | 💻 Tech Enthusiast  
+🎓 Math & Computer Science Student | 📊 Future Data Scientist | 💻 Tech Enthusiast  
 </p>
 
 <p align="center">
@@ -22,37 +22,54 @@
 
 ### 🚀 About Me
 
-I'm a **passionate data-driven thinker** currently studying at the University of Tunis.  
-I love exploring how **math meets code** to solve real-world problems through **data analysis, algorithms**, and **creative logic**.
+I'm a **data-driven thinker** currently studying at the University of Tunis.  
+I love discovering how **mathematics and code** combine to solve real-world problems through **data analysis**, **algorithms**, and **logical modeling**.
 
-🧠 I thrive on building, analyzing, optimizing, and visualizing data-powered systems — from academic experiments to full design documents.
+🔍 I enjoy building, analyzing, and optimizing systems — from academic challenges to practical solutions.
 
 ---
 
-### 🔧 Tech & Tools I Use
+### 🧰 Languages and Tools
 
-- **Languages:** `Python`, `R`, `SQL`, `Java`  
-- **Skills:** Data Analysis · EDA · Visualization · Algorithm Design · Systems Modeling  
-- **Tools:** Jupyter · RStudio · JavaFX · PostgreSQL · PlantUML · Draw.io
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</p>
 
 ---
 
 ### 📂 Featured Projects
 
-| 🚧 Project | 🔧 Tech Stack | 📌 Description |
-|-----------|---------------|----------------|
-| 🧮 **Algorithm Performance Comparison** | Python, NumPy, Matplotlib | Benchmarked LU vs Gauss decomposition on large matrices with performance charts |
-| 📊 **Walmart Sales Analytics** | R, ggplot2 | Explored and visualized trends in sales data to derive actionable insights |
-| 🧑‍🎓 **Student Management System** | JavaFX, PostgreSQL | GUI + DB integration for managing student data (CRUD operations) |
-| 🏥 **Medical Appointment System** | UML, Canva, PlantUML | Designed specs, UML diagrams, and planning docs for an online appointment platform |
+| 🚧 Project | 🔧 Stack | 📌 Description |
+|-----------|---------|----------------|
+| 🧮 **Algorithm Benchmark** | Python, NumPy, Matplotlib | Compared LU and Gauss decomposition on large matrices, with performance plots |
+| 📊 **Walmart Sales Insights** | R, ggplot2 | Cleaned and visualized sales data to uncover trends and key business metrics |
+| 👨‍🎓 **Student Manager App** | JavaFX, PostgreSQL | Desktop GUI for managing student data (CRUD + DB integration) |
+| 🏥 **e-Health App Design** | UML, PlantUML, Canva | Created full system design, diagrams, and planning documents for an online appointment app |
 
 ---
 
-### 🌱 What I'm Working On
+### 🌱 Currently Exploring
 
-- Deepening my knowledge in **machine learning**, **data pipelines**, and **cloud deployment**  
-- Exploring **open-source collaboration** and contributing to meaningful tech projects  
-- Building a strong foundation in **pandas**, **sklearn**, and **cloud tools** (AWS, GCP)
+- Advancing in **machine learning**, **data engineering**, and **cloud platforms**  
+- Open-source collaboration and building meaningful, reusable tech  
+- Mastering tools like `pandas`, `scikit-learn`, and deploying with `AWS`, `GCP`
 
 ---
 
@@ -61,14 +78,24 @@ I love exploring how **math meets code** to solve real-world problems through **
 <details>
 <summary>Click to expand</summary>
 
-- 🎨 I enjoy working with design tools like **Canva** and **Figma**  
-- ⚽ Football fan, 🎮 strategy gamer, and 🤖 AI/logic challenge lover  
+- 🎨 I enjoy creating visual designs with **Canva** and **Figma**  
+- ⚽ Football fan, 🎮 strategy game enthusiast, 🤖 AI puzzle solver  
 - 🌍 I speak Arabic (native), French, and English
 
 </details>
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-🧭 "Code is a story. Data is the plot. I just help write the ending."  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasserChihi&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JasserChihi&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats"/>
+</p>
+
+---
+
+<p align="center">
+🧭 "Code is a story. Data is the plot. I just help write the ending."
 </p>
