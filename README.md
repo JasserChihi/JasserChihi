@@ -63,7 +63,7 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 ![Probabilités](https://img.shields.io/badge/Probabilités-Avancé-ffa500)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Avancé-ffa500?logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermédiaire-228B22?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Débutant-1e90ff?logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-Intermédiaire-228B22?logo=mysql)
 
 
 ---
