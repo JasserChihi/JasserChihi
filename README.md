@@ -54,6 +54,20 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 
 ---
 
+### 💡 Skill Level
+
+![R](https://img.shields.io/badge/R-Expert-ff0000?logo=r)
+![Mathématiques](https://img.shields.io/badge/Mathématiques-Expert-ff0000)
+![Python](https://img.shields.io/badge/Python-Avancé-ffa500?logo=python&logoColor=white)
+![Statistiques](https://img.shields.io/badge/Statistiques-Avancé-ffa500)
+![Probabilités](https://img.shields.io/badge/Probabilités-Avancé-ffa500)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Avancé-ffa500?logo=jupyter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermédiaire-228B22?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Débutant-1e90ff?logo=mysql)
+
+
+---
+
 ### 📂 Featured Projects
 
 | 🚧 Project | 🔧 Stack | 📌 Description |
@@ -61,8 +75,8 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 | 🧮 **Algorithm Benchmark** | Python, NumPy, Matplotlib | Compared LU and Gauss decomposition on large matrices, with performance plots |
 | 📊 **Walmart Sales Insights** | R, ggplot2 | Cleaned and visualized sales data to uncover trends and key business metrics |
 | 👨‍🎓 **Student Manager App** | JavaFX, PostgreSQL | Desktop GUI for managing student data (CRUD + DB integration) |
-| 🏥 **e-Health App Design** | UML, PlantUML, Canva | Created full system design, diagrams, and planning documents for an online appointment app |
-
+| 📊 **HR Analytics in R** | R, readr, e1071, base R | Univariate & bivariate analysis on employee satisfaction and attrition. Includes stats, plots, regression, and interpretation |
+| 📈 **Statistics Basics Tips & Dataset** | Python, Pandas, Seaborn, Jupyter | A notebook to learn core stats concepts: confidence intervals, normality tests, correlation, regression |
 ---
 
 ### 🌱 Currently Exploring
@@ -89,10 +103,9 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasserChihi&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JasserChihi&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasserChihi&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
 </p>
+
 
 ---
 
