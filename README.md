@@ -68,11 +68,11 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 
 ---
 
-### 🌱 Currently Exploring
+### 📊 GitHub Stats
 
-- Advancing in **machine learning**, **data engineering**, and **cloud platforms**  
-- Open-source collaboration and building meaningful, reusable tech  
-- Mastering tools like `pandas`, `scikit-learn`, and deploying with `AWS`, `GCP`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasserChihi&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
@@ -86,15 +86,6 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 - 🌍 I speak Arabic (native), French, and English
 
 </details>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasserChihi&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
-</p>
-
 
 ---
 
