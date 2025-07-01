@@ -68,17 +68,6 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 
 ---
 
-### 📂 Featured Projects
-
-| 🚧 Project | 🔧 Stack | 📌 Description |
-|-----------|---------|----------------|
-| 🧮 **Algorithm Benchmark** | Python, NumPy, Matplotlib | Compared LU and Gauss decomposition on large matrices, with performance plots |
-| 📊 **Walmart Sales Insights** | R, ggplot2 | Cleaned and visualized sales data to uncover trends and key business metrics |
-| 👨‍🎓 **Student Manager App** | JavaFX, PostgreSQL | Desktop GUI for managing student data (CRUD + DB integration) |
-| 📊 **HR Analytics in R** | R, readr, e1071, base R | Univariate & bivariate analysis on employee satisfaction and attrition. Includes stats, plots, regression, and interpretation |
-| 📈 **Statistics Basics Tips & Dataset** | Python, Pandas, Seaborn, Jupyter | A notebook to learn core stats concepts: confidence intervals, normality tests, correlation, regression |
----
-
 ### 🌱 Currently Exploring
 
 - Advancing in **machine learning**, **data engineering**, and **cloud platforms**  
