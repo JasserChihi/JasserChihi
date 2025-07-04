@@ -32,6 +32,7 @@ I love discovering how **mathematics and code** combine to solve real-world prob
 ### 🧰 Languages and Tools
 
 <p align="center">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" style="height:40px;" alt="Google Colab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px;" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px;" alt="SQL"/>
