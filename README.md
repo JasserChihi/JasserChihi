@@ -1,9 +1,9 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Aspiring+Data+Scientist+%7C+Python%2C+SQL%2C+R%2C+ML+%26+Statistical+Analysis" alt="Typing SVG Line 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Data+Science+Enthusiast+%7C+Python%2C+SQL%2C+R%2C+Machine+Learning+%26+AI" alt="Typing SVG Line 1" />
 </h3>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Mathematical+Modeling+%7C+Mathematics+%26+CS+Student" alt="Typing SVG Line 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Mathematics+and+Computer+Science+Student+%7C+Turning+Data+Into+Insight" alt="Typing SVG Line 2" />
 </h3>
 
 <h1 align="center">👋 Hi, I'm Jasser Chihi</h1>
