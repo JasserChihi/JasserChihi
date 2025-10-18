@@ -76,7 +76,7 @@ I love transforming raw data into meaningful insights using **Python**, **SQL**,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasserChihi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasserChihi&layout=compact&langs_count=10&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
