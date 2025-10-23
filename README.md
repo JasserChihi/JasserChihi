@@ -14,8 +14,7 @@
 
 <p align="center">
   <a href="mailto:jasser.chihi@etudiant-fst.utm.tn">📧 Email</a> · 
-  <a href="https://www.linkedin.com/in/jasser-chihi/">💼 LinkedIn</a> · 
-  <a href="https://github.com/JasserChihi">🌐 GitHub</a>
+  <a href="https://www.linkedin.com/in/jasser-chihi/">💼 LinkedIn</a> 
 </p>
 
 ---
