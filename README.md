@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Data+Science+Enthusiast+%7C+Python%2C+SQL%2C+R%2C+Machine+Learning+%26+AI" alt="Typing SVG Line 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Data+Science+Enthusiast+%7C+Machine+Learning+%26+AI+Explorer" alt="Typing SVG Line 1" />
 </h3>
 
 <h3 align="center">
@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I'm Jasser Chihi</h1>
 
 <p align="center">
-🎓 Math & Computer Science Student | 📊 Data Science Enthusiast | 💻 Machine Learning Explorer  
+🎓 Math & Computer Science Student | 📊 Data Science Enthusiast | 💻 Machine Learning | AI Explorer  
 </p>
 
 <p align="center">
