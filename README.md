@@ -45,6 +45,9 @@ I love transforming raw data into meaningful insights using **Python**, **SQL**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="height:40px;" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:40px;" alt="VSCode"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" style="height:40px;" alt="Google Colab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="height:40px;" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="height:40px;" alt="MongoDB"/>
+  <img src="https://ollama.com/public/ollama.png" style="height:40px;" alt="Ollama"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" style="height:25px;" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="height:25px;"/>
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" style="height:25px;"/>
@@ -68,7 +71,11 @@ I love transforming raw data into meaningful insights using **Python**, **SQL**,
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Advanced-ffa500?logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermediate-228B22?logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-228B22?logo=mysql)
+![RAG & LLM](https://img.shields.io/badge/RAG%20&%20LLM-Intermediate-228B22)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-228B22?logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-228B22?logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-228B22?logo=mongodb)
+![Ollama](https://img.shields.io/badge/Ollama-Intermediate-228B22?logo=ollama)
 
 ---
 
@@ -79,6 +86,7 @@ I love transforming raw data into meaningful insights using **Python**, **SQL**,
 </p>
 
 ---
+
 
 ### ⚡ Fun Facts
 
